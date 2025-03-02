@@ -4,9 +4,16 @@ $log
 
 Пример использования:
 ```js
-$log
+@$log
 @$mol_mem
 description(next?: string) {
 	return next ?? ''
 }
+```
+
+Вывод в консоли
+```js
+	function name
+>>> {args}	JSON(args)
+<<< {result}	JSON(result)
 ```
