@@ -25,3 +25,4 @@ description(next?: string) {
 - Добавить в [$mol_demo](https://mol.hyoo.ru/#!section=demos) данные функции
 - Функция $log_in - только аргументы
 - Функция $log_out - только результат
+- Проверить на удобность названия декораторов
